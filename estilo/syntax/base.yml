@@ -1,0 +1,80 @@
+ColorColumn: '- shadow'
+Conceal: ''
+Cursor: ''
+CursorIM: ''
+CursorColumn: '- shadow'
+CursorLine: '- shadow'
+CursorLineNr: 'blue2 - '
+Directory: 'blue3 -'
+DiffAdd: '- purple3'
+DiffChange: '- purple3'
+DiffDelete: 'pink2 pink3'
+DiffText: '- - r'
+ErrorMsg: 'pink2 - r'
+VertSplit: 'bg bg'
+Folded: 'grey2 shadow'
+FoldColumn: 'grey2 shadow'
+SignColumn: ''
+IncSearch: 'bg highlighted'
+LineNr: 'grey3 -'
+MatchParen: 'pink2 - b'
+ModeMsg: ''
+MoreMsg: ''
+NonText: 'grey3 -'
+Normal: 'text bg'
+PMenu: 'bg purple1'
+PMenuSel: 'text purple3'
+PmenuSbar: 'yellow1 yellow1'
+PmenuThumb: 'green1 green1'
+Question: 'purple3 -'
+Search: 'bg yellow3 ub'
+SpecialKey: 'grey3 -'
+SpellBad: 'pink2'
+SpellLocal: 'yellow1'
+SpellCap: 'green1'
+SpellRare: 'purple1'
+StatusLine: 'text shadow b'
+StatusLineNC: 'grey1 grey3'
+TabLine: 'grey1 grey3'
+TabLineFill: '- shadow'
+TabLineSel: 'purple3 - b'
+Title: 'blue2 - b'
+Visual: 'bg blue3'
+VisualNOS: 'bg blue3'
+WarningMsg: 'pink2 -'
+WildMenu: 'text blue2 b'
+Comment: 'grey2'
+Constant: 'green1 -'
+String: 'yellow1 -' # Constant
+Character: 'green1 -' # Constant
+Boolean: 'green1 -' # Constant
+Number: 'green1 -' # Constant
+Float: 'green1 -' # Constant
+Identifier: 'blue2 -'
+Function: 'blue2 -' # Identifier
+Statement: 'purple1 -'
+Conditional: 'pink2 -' # Statement
+Repeat: '' # Statement
+Label: '' # Statement
+Operator: 'pink2 -' # Statement
+Keyword: '' # Statement
+Exception: 'pink2 -' # Statement
+PreProc: 'purple3 -'
+Include: '' # PreProc
+Define: '' # PreProc
+Macro: '' # PreProc
+PreCondit: '' # PreProc
+Type: 'purple1 - '
+StorageClass: '' # Type
+Structure: '' # Type
+Typedef: '' # Type
+Special: 'purple1 -'
+SpecialChar: '' # Special
+Tag: '' # Special
+Delimiter: '' # Special
+SpecialComment: '' # Special
+Debug: '' # Special
+Underlined: '- - u'
+Ignore: ''
+Error: 'pink2 -'
+Todo: 'yellow1 - b'

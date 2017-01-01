@@ -1,0 +1,14 @@
+name: 'magentic'
+version: '1.0.0'
+license: 'MIT'
+author: 'Mitesh Athia'
+url: 'https://github.com/mathia4/magentic'
+description: 'Magenta colorscheme for VIM'
+colorschemes:
+  - name: magentic
+    background: 'dark'
+    palette: magentic
+airline:
+  - name: magentic
+    palette: magentic
+    style: magentic
