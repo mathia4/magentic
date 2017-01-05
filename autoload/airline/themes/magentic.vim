@@ -4,7 +4,7 @@
 " URL:https://github.com/mathia4/magentic
 " Author: Mitesh Athia
 " License: MIT
-" Last Change: 2016/12/30 17:58
+" Last Change: 2017/01/05 15:42
 " ============================================================
 
 let g:airline#themes#magentic#palette = {}

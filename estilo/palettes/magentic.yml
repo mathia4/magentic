@@ -21,10 +21,9 @@ yellow3: '#fff7a2'
 # whites
 highlighted: '#ffffff'
 text: '#eeeeee'
-gandalf: '#bbbbbb'
 # greys
 grey1: '#999999'
-grey2: '#666666'
+grey2: '#5c5f67'
 grey3: '#444444'
 shadow: '#343842'
 bg: '#2e323a'

@@ -1,7 +1,7 @@
 xmlTodo: '' # Todo
 xmlTag: 'blue2 -' # Function
-xmlTagName: '- blue2' # Function
-xmlEndTag: '' # Identifier
+xmlTagName: 'bg blue3' # Function
+xmlEndTag: 'blue2 -' # Identifier
 xmlNamespace: '' # Tag
 xmlEntity: '' # Statement
 xmlEntityPunct: '' # Type
