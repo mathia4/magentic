@@ -4,7 +4,7 @@
 " URL: https://github.com/mathia4/magentic
 " Author: Mitesh Athia
 " License: MIT
-" Last Change: 2017/01/05 15:42
+" Last Change: 2017/01/06 11:52
 " ===============================================================
 
 set background=dark
@@ -25,10 +25,10 @@ hi DiffDelete guifg=#ff5faf ctermfg=205 guibg=#e684b5 ctermbg=175 gui=NONE cterm
 hi DiffText guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=reverse cterm=reverse
 hi ErrorMsg guifg=#ff5faf ctermfg=205 guibg=NONE ctermbg=NONE gui=reverse cterm=reverse
 hi VertSplit guifg=#2e323a ctermfg=236 guibg=#2e323a ctermbg=236 gui=NONE cterm=NONE
-hi Folded guifg=#5c5f67 ctermfg=59 guibg=#343842 ctermbg=237 gui=NONE cterm=NONE
-hi FoldColumn guifg=#5c5f67 ctermfg=59 guibg=#343842 ctermbg=237 gui=NONE cterm=NONE
+hi Folded guifg=#6C6F76 ctermfg=243 guibg=#343842 ctermbg=237 gui=NONE cterm=NONE
+hi FoldColumn guifg=#6C6F76 ctermfg=243 guibg=#343842 ctermbg=237 gui=NONE cterm=NONE
 hi IncSearch guifg=#2e323a ctermfg=236 guibg=#fff7a2 ctermbg=229 gui=bold cterm=bold
-hi LineNr guifg=#5c5f67 ctermfg=59 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi LineNr guifg=#6C6F76 ctermfg=243 guibg=#343842 ctermbg=237 gui=NONE cterm=NONE
 hi MatchParen guifg=#ff5faf ctermfg=205 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi NonText guifg=#444444 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Normal guifg=#eeeeee ctermfg=255 guibg=#2e323a ctermbg=236 gui=NONE cterm=NONE
@@ -43,8 +43,8 @@ hi SpellBad guifg=#ff5faf ctermfg=205 guibg=NONE ctermbg=NONE gui=NONE cterm=NON
 hi SpellLocal guifg=#ffd75f ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellCap guifg=#afff5f ctermfg=155 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellRare guifg=#cea9ff ctermfg=183 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi StatusLine guifg=#eeeeee ctermfg=255 guibg=#2e323a ctermbg=236 gui=NONE cterm=NONE
-hi StatusLineNC guifg=NONE ctermfg=NONE guibg=#2e323a ctermbg=236 gui=NONE cterm=NONE
+hi StatusLine guifg=#eeeeee ctermfg=255 guibg=#343842 ctermbg=237 gui=NONE cterm=NONE
+hi StatusLineNC guifg=NONE ctermfg=NONE guibg=#343842 ctermbg=237 gui=NONE cterm=NONE
 hi TabLine guifg=#999999 ctermfg=246 guibg=#444444 ctermbg=238 gui=NONE cterm=NONE
 hi TabLineFill guifg=NONE ctermfg=NONE guibg=#343842 ctermbg=237 gui=NONE cterm=NONE
 hi TabLineSel guifg=#af5fff ctermfg=135 guibg=NONE ctermbg=NONE gui=bold cterm=bold
@@ -53,7 +53,7 @@ hi Visual guifg=#2e323a ctermfg=236 guibg=#afafff ctermbg=147 gui=NONE cterm=NON
 hi VisualNOS guifg=#2e323a ctermfg=236 guibg=#afafff ctermbg=147 gui=NONE cterm=NONE
 hi WarningMsg guifg=#ff5faf ctermfg=205 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi WildMenu guifg=#eeeeee ctermfg=255 guibg=#8484ff ctermbg=105 gui=bold cterm=bold
-hi Comment guifg=#5c5f67 ctermfg=59 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Comment guifg=#6C6F76 ctermfg=243 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Constant guifg=#afff5f ctermfg=155 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi String guifg=#ffd75f ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Character guifg=#afff5f ctermfg=155 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
